@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Camp Snap Importer</string>
+    <string name="connection_status_connected">Camera Connected</string>
+    <string name="connection_status_disconnected">Camera Not Detected</string>
+    <string name="folder_configured">Camera Folder Configured</string>
+    <string name="folder_not_configured">Camera Folder Not Selected</string>
+    <string name="select_camera_folder">Select Camera Root / DCIM</string>
+    <string name="change_folder">Change Folder</string>
+    <string name="destination_album_label">Destination Album</string>
+    <string name="default_destination_album">Camp Snap</string>
+    <string name="default_album_path">Pictures/Camp Snap</string>
+    <string name="photos_found_label">Photos on Camera</string>
+    <string name="total_size_label">Total Size</string>
+    <string name="action_import_clear">Import &amp; Clear Camera</string>
+    <string name="action_import_only">Import Only (Keep on Camera)</string>
+    <string name="scanning">Scanning camera storage…</string>
+    <string name="importing">Importing photos…</string>
+    <string name="import_complete">Import Complete!</string>
+    <string name="clear_failed">Warning: Some files could not be safely cleared.</string>
+</resources>
